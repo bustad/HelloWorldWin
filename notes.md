@@ -21,4 +21,4 @@ På github.com:
     git push -u origin main
 
 git checkout -b "Graphics-Update"
-
+git push --set-upstream origin Graphics-Update
