@@ -22,3 +22,7 @@ På github.com:
 
 git checkout -b "Graphics-Update"
 git push --set-upstream origin Graphics-Update
+...ändringar, add, commit, push...
+git branch
+git checkout main
+git merge Graphics-Update
